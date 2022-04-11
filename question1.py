@@ -4,5 +4,3 @@ num_dict = {"one": 1, "two": 2, "three": 3, "four": 4, "five": 5}
 
 z = int(N)*num_dict[S]
 print("The product of " + N + " and " +S + " is: ", z)
-
-           

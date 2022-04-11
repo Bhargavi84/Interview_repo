@@ -4,4 +4,3 @@ days_list = ["Mon", "Tue", "Wed", "Thur", "Fri", "Sat", "Sun"]
 K = days_list.index(S)
 i = K + int(N)%7
 print(N+" days after " + S + " is: "+ days_list[i])
-      
